@@ -118,4 +118,6 @@ Otras cosas
 
 + En relación con el punto anterior, estaría bien aclarar en algún sitio los objetivos concretos que se persiguen en el proyecto.
 
++ Hay que revisar y actualizar el tipo de licencia que queremos para el proyecto.
+
 
